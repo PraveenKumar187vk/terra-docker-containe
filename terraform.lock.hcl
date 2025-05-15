@@ -1,0 +1,1 @@
+# Terraform lock file (placeholder content)
